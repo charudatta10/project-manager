@@ -1,4 +1,18 @@
- 
+> [!IMPORTANT]
+> Read the follwing notices before contribtuing to this project.
+
+> [!CAUTION]  
+> Project Archived
+
+> [!WARNING]
+> This project, [Project Manager](https://github.com/charudatta10/project-manager), has been archived and is no longer maintained. 
+
+> [!TIP]
+> For future developments and improvements, please refer to project: [Task Runner SDLC](https://github.com/charudatta10/task-runner-SDLC).
+
+> [!NOTE]
+> Thank you for your support and contributions!
+
 # project-manager
 
 <!-- Badges: Project Status GitHub -->
